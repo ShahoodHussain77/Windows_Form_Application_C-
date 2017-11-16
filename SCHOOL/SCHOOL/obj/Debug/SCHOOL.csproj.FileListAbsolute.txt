@@ -1,0 +1,69 @@
+c:\users\administrator\documents\visual studio 2013\Projects\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP.mdf
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP_log.ldf
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\bin\Debug\SCHOOL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\SCHOOL\SCHOOL\obj\Debug\SCHOOL.pdb
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP.mdf
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP_log.ldf
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe.config
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.pdb
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Birthday.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Form1.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Study_Certificate.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.ViewAdmission.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.exe
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.pdb
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Admission_Report.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Login.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Student_Attendance.resources
+C:\Users\Administrator\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Transfer_Certificate.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP.mdf
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP_log.ldf
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe.config
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\bin\Debug\SCHOOL.pdb
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Admission_Report.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Birthday.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.RegisterationForm.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Login.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.MainMdiForm.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Properties.Resources.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Student_Attendance.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Study_Certificate.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Transfer_Certificate.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.ViewAdmission.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.SchoolValidation.resources
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csproj.GenerateResource.Cache
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.exe
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.pdb
+C:\Users\dell\Desktop\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csprojResolveAssemblyReference.cache
+E:\projects\C#\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe.config
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.exe
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.pdb
+E:\projects\C#\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP.mdf
+E:\projects\C#\SCHOOL\SCHOOL\bin\Debug\SMS_DESKTOP_log.ldf
+E:\projects\C#\SCHOOL\SCHOOL\bin\Debug\SCHOOL.exe
+E:\projects\C#\SCHOOL\SCHOOL\bin\Debug\SCHOOL.pdb
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csprojResolveAssemblyReference.cache
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Admission_Report.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Birthday.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.RegisterationForm.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Login.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.MainMdiForm.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Properties.Resources.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Student_Attendance.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Study_Certificate.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.Transfer_Certificate.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.ViewAdmission.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.SchoolValidation.resources
+E:\projects\C#\SCHOOL\SCHOOL\obj\Debug\SCHOOL.csproj.GenerateResource.Cache
